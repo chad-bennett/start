@@ -22,11 +22,15 @@ Here's a collection of stuff related to class and coding in general. Some of the
 
 ## PLAYGROUNDS
 
-In-browser coding tools with great code snippets and experiments. Lots of great content made by other designers that you can use to improve your work. 
+In-browser coding environments. Usually have lots of great content made by other designers that you can use to improve your work. 
 
 *   [Codrops](https://tympanus.net/codrops/ "opens in new tab")
 *   [Code Pen](https://codepen.io/ "opens in new tab")
 *   [JSFiddle](https://jsfiddle.net/ "opens in new tab")
+*   [CodeSandbox](http://cssdeck.com/ "opens in new tab")
+*   [CSS Deck](http://cssdeck.com/ "opens in new tab")
+*   [kodeWeave](https://michaelsboost.com/kodeWeave/ "opens in new tab")
+*   [Web Maker](https://webmaker.app/ "opens in new tab")
 
 ## BROWSER TOOLS
 
