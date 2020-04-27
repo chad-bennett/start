@@ -6,9 +6,7 @@ categories = [ "resources"]
 tags = ["design", "resources", "lists"]
 +++
 
-{{< figure src="/img/type.jpg" alt="stack of movable type" class="right border">}} 
-
-a collection of places to get fun [lorem ipsum](https://loremipsum.io/) text for use in your layouts because you don't always have written content when you want to play with visual layout. 
+**a collection of places to get fun [lorem ipsum](https://loremipsum.io/) text for use in your layouts because you don't always have written content when you want to play with visual layout.** 
 
 <!--more-->
 

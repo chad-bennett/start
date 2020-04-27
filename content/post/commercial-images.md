@@ -6,15 +6,12 @@ categories = [ "resources"]
 tags = ["design", "lists", "resources"]
 +++
 
-a giant collection of places where you can get free images that are safe to use in commercial projects. 
+**a giant collection of places where you can get free images that are safe to use in commercial projects.** 
 
 <!--more-->
 
-***this is a work in progress. please let me know if you have sites to add to this list.***
+*notes about images and their use.*
 
-notes about images and their use.
-
-notes about need for an organized list to share with my design students.
 **Respect the licenses!**
 
 ----------

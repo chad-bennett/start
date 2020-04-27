@@ -6,9 +6,7 @@ categories = [ "resources"]
 tags = ["design", "lists", "resources"]
 +++
 
-{{< figure src="/img/text.jpg" alt="graphic of abstract text" class="right border">}} 
-
-a collection of places to find free fonts that are suitable for commercial use.  
+**a collection of places to find free fonts that are suitable for commercial use.**  
 
 <!--more-->
 

@@ -8,9 +8,7 @@ weight = 0
 
 +++
 
-{{< figure src="/img/gradient.jpg" alt="colorful gradient" class="right border">}} 
-
-a collection of places to find web gradients for use on your websites
+**a collection of places to find web gradients for use on your websites**
 
 <!--more-->
 

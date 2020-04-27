@@ -6,9 +6,7 @@ categories = [ "resources"]
 tags = ["design", "lists", "resources", "photoshop", "graphics"]
 +++
 
-{{< figure src="/img/perplexed.jpg" alt="art piece of mine with a guy contemplating a chasm" class="right border">}} 
-
-places to start learning photoshop because any help you can find is a good thing.  
+**places to start learning photoshop because any help you can find is a good thing.**  
 
 <!--more-->
 
