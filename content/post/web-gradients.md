@@ -2,7 +2,7 @@
 date = "2018-09-011"
 title = "web gradient resources"
 draft = false
-categories = [ "resources"]
+categories = [ "web design"]
 tags = ["design", "resources", "lists"]
 weight = 0
 

@@ -17,3 +17,8 @@
   name = "Design Resources"
   url = "/categories/resources/"
   weight = 30
+
+  [[main]]
+  name = "Creativity"
+  url = "/categories/creativity/"
+  weight = 40
