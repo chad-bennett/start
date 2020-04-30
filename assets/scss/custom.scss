@@ -4,7 +4,10 @@
 // type fixes
 body {
   font-size: .9rem;
+  font-weight: 300;
 }
+
+strong {font-weight: 600;}
 
 h1,
 h2,
@@ -60,7 +63,7 @@ hr {
 
 // hide stuff
 .article-metadata .article-date,
-.article-metadate .middot-divider {
+.article-metadata .middot-divider {
   display: none;
 }
 
@@ -76,6 +79,17 @@ hr {
 // color updates
 .navbar {
   background-color: #9fb078;
+}
+
+@media (max-width: 991.98px) {
+  .navbar-collapse {
+    background-color: #9fb078;
+  }
+
+  #navbar-main .main-menu-item ul li .nav-link:hover {
+    transform: scale(1.2) translateX(50px);
+}
+
 }
 
 a {

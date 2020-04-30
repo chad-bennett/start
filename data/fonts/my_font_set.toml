@@ -2,7 +2,7 @@
 name = "My Font Set"
 
 # Optional Google font URL
-google_fonts = "Montserrat:400,700|Solway:400,700"
+google_fonts = "Montserrat:400,700|Solway:300,600"
 
 # Font families
 heading_font = "Montserrat"
