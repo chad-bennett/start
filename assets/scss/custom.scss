@@ -2,34 +2,85 @@
 
 
 // type fixes
-body {font-size: .9rem;}
+body {
+  font-size: .9rem;
+}
 
-h1, h2, .portrait-title h2 {font-weight: 700; text-transform: lowercase;}
+h1,
+h2,
+.portrait-title h2 {
+  font-weight: 700;
+  text-transform: lowercase;
+}
 
-footer p {text-transform: lowercase;}
+footer p {
+  text-transform: lowercase;
+}
 
-p, h1, h2, h3, h4, h5, h6, .portrait-title h2 {color: var(--gray-dark);}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.portrait-title h2 {
+  color: var(--gray-dark);
+}
 
-.section-heading h1, .see-all {text-transform: lowercase;}
+.section-heading h1,
+.see-all {
+  text-transform: lowercase;
+}
 
 // shrink and adjust social icons 
-.network-icon i {font-size: 1.2rem;}
+.network-icon i {
+  font-size: 1.2rem;
+}
 
-.author-card .card-text {margin-bottom: 10px;}
+.author-card .card-text {
+  margin-bottom: 10px;
+}
 
 #profile .network-icon {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
 // coordinate hr
-.content-widget-hr { border-top: .6px solid var(--gray-dark);}
+.content-widget-hr {
+  border-top: .6px solid var(--gray-dark);
+}
 
 hr {
-    height: .6px;
-    background: var(--gray-dark);
-    background-image: none;
+  height: .6px;
+  background: var(--gray-dark);
+  background-image: none;
 }
 
 // menu hover
-#navbar-main .main-menu-item ul li .nav-link {transition: transform .3s ease;}
-#navbar-main .main-menu-item ul li .nav-link:hover {transform: scale(1.2);}
+#navbar-main .main-menu-item ul li .nav-link {
+  transition: transform .3s ease;
+}
+
+#navbar-main .main-menu-item ul li .nav-link:hover {
+  transform: scale(1.2);
+}
+
+// color updates
+.navbar {
+  background-color: #9fb078;
+}
+
+a {
+  color: #9fb078; font-weight: 600;
+}
+
+a:hover, 
+.navbar .navbar-nav .nav-link.active,
+.tag-cloud a:active,
+.tag-cloud a:focus,
+.tag-cloud a:hover {
+  color: #0a4446 !important;
+}
+
+// #67724e
