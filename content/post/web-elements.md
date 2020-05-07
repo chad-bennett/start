@@ -70,7 +70,7 @@ tags = ["web design", "lists", "html", "css"]
 
 *   [w3schools - quotations](https://www.w3schools.com/html/html_quotation_elements.asp "opens in new tab")
 
-*   [1st web designers - css snippets for blockquotes](https://1stwebdesigner.com/css-snippets-blockquotes/ target=)
+*   [1st web designers - css snippets for blockquotes](https://1stwebdesigner.com/css-snippets-blockquotes/ "opens in new tab")
 
 *   [tympanus - modern block quotes]( https://tympanus.net/codrops/2012/07/25/modern-block-quote-styles/ "opens in new tab")
 
