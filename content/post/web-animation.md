@@ -1,16 +1,10 @@
 +++
 
 date = "2020-04-14"
-
 title = "web animation"
-
 draft = false
-
 categories = [ "web design"]
-
 tags = ["web design", "lists", "html", "css", "animation"]
-
-
 
 +++
 
