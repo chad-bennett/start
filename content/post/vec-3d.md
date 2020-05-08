@@ -3,7 +3,7 @@
 date = "2020-04-14"
 title = "Illustrator - perspective and isometric"
 draft = false
-categories = [ "vector"]
+categories = ["illustrator"]
 tags = ["vector", "lists", "illustrator"]
 
 +++

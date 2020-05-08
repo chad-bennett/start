@@ -3,7 +3,7 @@
 date = "2020-04-14"
 title = "Illustrator - warping and distorting shapes"
 draft = false
-categories = [ "vector"]
+categories = ["illustrator"]
 tags = ["vector", "lists", "illustrator", "shapes"]
 
 +++

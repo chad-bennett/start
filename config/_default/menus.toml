@@ -19,8 +19,8 @@
   weight = 30
 
   [[main]]
-  name = "Vector"
-  url = "/categories/vector/"
+  name = "Illustrator"
+  url = "/categories/illustrator/"
   weight = 40
 
   [[main]]

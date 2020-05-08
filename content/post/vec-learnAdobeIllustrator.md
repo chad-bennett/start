@@ -3,7 +3,7 @@
 date = "2020-05-14"
 title = "Illustrator - learning the program"
 draft = false
-categories = [ "vector"]
+categories = ["illustrator"]
 tags = ["vector", "lists", "illustrator"]
 
 +++

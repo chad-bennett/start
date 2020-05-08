@@ -8,7 +8,7 @@ title = "vector drawing apps"
 
 draft = false
 
-categories = [ "vector"]
+categories = ["illustrator"]
 
 tags = ["vector", "lists", "illustrator", "apps"]
 

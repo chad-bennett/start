@@ -3,7 +3,7 @@
 date = "2020-04-14"
 title = "Illustrator - guides, alignment, and artboards"
 draft = false
-categories = [ "vector"]
+categories = ["illustrator"]
 tags = ["vector", "lists", "illustrator"]
 
 +++
