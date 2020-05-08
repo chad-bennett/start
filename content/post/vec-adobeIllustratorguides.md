@@ -1,6 +1,6 @@
 +++
 
-date = "2020-05-14"
+date = "2020-05-05"
 title = "Illustrator - guides and cheat sheets"
 draft = false
 categories = ["illustrator"]
