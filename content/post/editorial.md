@@ -5,7 +5,6 @@ title = "cool editorial illustrators"
 tags = ["resources","vector","lists"]
 categories = ["creativity"]
 weight = 0
-
 +++
 
 **I absolutely love Editorial Illustration. It is art that has a purpose, often created with clever metaphors and social commentary. Here are a few intriguing artists that I've discovered online.** 
@@ -43,6 +42,8 @@ weight = 0
 [Veronica Grech](https://www.veronicagrech.com/) - cool abstracted shapes. deceptively simple and bold style
 
 [Paul Blow](http://paulblow.com/news1/latest/) - amazing range of styles and approaches. intelligent commentary and intriguing visual metaphors
+
+[Peter Greenwood](https://www.peter-greenwood.com/) - fun colors and great retro-style
 
 ---
 
